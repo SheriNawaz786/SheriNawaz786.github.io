@@ -14,17 +14,17 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: dbyll
+      title: Sheri's Blog
 
-description: Stylish Jekyll Theme
+description: Student Learning Tracker
 author:
-  name: dbyll
-  email: dbyll@ismaildemirbilek.com
-  github: dbtek
-  twitter: dbtek
-  pinterest: asd123
-  linkedin: asd123
-  bio: Your stylish, minimalist theme!
+  name: Sheri
+  email: sheriyar.nawaz@challoners.org
+  github: SheriNawaz786
+  twitter: NONE
+  pinterest: NONE
+  linkedin: NONE
+  bio: Some random student from the UK
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
